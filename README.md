@@ -31,12 +31,12 @@
 
 <img
   height="170"
-  src="https://grs-deploy-ashy.vercel.app/api?username=thomasgeens&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0a0e27&title_color=00d9ff&text_color=e4e6eb&icon_color=667eea&border_color=151a35"
+  src="https://grs-deploy.api.thomas.geens.be/api?username=thomasgeens&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0a0e27&title_color=00d9ff&text_color=e4e6eb&icon_color=667eea&border_color=151a35"
   alt="GitHub stats"
 />
 <img
   height="170"
-  src="https://grs-deploy-ashy.vercel.app/api/top-langs/?username=thomasgeens&layout=compact&langs_count=8&hide_border=false&bg_color=0a0e27&title_color=00d9ff&text_color=e4e6eb&border_color=151a35"
+  src="https://grs-deploy.api.thomas.geens.be/api/top-langs/?username=thomasgeens&layout=compact&langs_count=8&hide_border=false&bg_color=0a0e27&title_color=00d9ff&text_color=e4e6eb&border_color=151a35"
   alt="Top languages"
 />
 
